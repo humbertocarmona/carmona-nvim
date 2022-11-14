@@ -79,7 +79,7 @@ function M.setup(colors, config)
         Identifier                        = { fg = colors.id },
         Function                          = { fg = colors.fn, style = config.functionStyle },
         Method                            = { link = 'Function' },
-        Statement                         = { fg = colors.sm, style = config.statementStyle },
+        Statement                         = { fg = colors.sp3, style = config.statementStyle },
         -- Conditional                    = {},
         -- Repeat                         = {},
         -- Label                          = { link = 'Statement' }, --TODO: check default
