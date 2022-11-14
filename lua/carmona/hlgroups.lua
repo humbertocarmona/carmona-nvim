@@ -129,8 +129,8 @@ function M.setup(colors, config)
         -- mkdLink                        = {},
 
         -- markdownHeadingDelimiter          = {},
-        markdownCode                      = { fg = colors.st },
-        markdownCodeBlock                 = { fg = colors.st },
+        markdownCode                      = { fg = colors.sp },
+        markdownCodeBlock                 = { fg = colors.sp },
         markdownEscape                    = { fg = 'none' },
         -- markdownH1                        = {},
         -- markdownH2                        = {},
