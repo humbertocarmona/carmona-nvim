@@ -70,7 +70,7 @@ function M.setup(colors, config)
         WildMenu                          = { link = "Pmenu" },
 
         Constant                          = { fg = colors.co },
-        String                            = { fg = colors.st },
+        String                            = { fg = colors.sp },
         Character                         = { link = "String" },
         Number                            = { fg = colors.nu },
         Boolean                           = { fg = colors.co, style = "bold" },
