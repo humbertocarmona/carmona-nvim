@@ -54,8 +54,7 @@ local palette_colors = {
 
     sakuraPink    = "#D27E99",
     waveRed       = "#E46876",
-    peachRed      = "#FF7B72",
-    peachRed1     = "#FF5D62",
+    peachRed      = "#ee3433",
     surimiOrange  = "#FFA066",
     katanaGray    = "#717C7C",
 }

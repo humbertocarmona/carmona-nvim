@@ -85,7 +85,7 @@ function M.setup(colors, config)
         -- Label                          = { link = 'Statement' }, --TODO: check default
         Operator                          = { fg = colors.op },
         Keyword                           = { fg = colors.sp3, style = config.keywordStyle },
-        Exception                         = { fg = colors.sp2 },
+        Exception                         = { fg = colors.sp3 },
 
         PreProc                           = { fg = colors.pp },
         -- Include                        = {},
@@ -289,7 +289,7 @@ function M.setup(colors, config)
         NvimTreeGitDeleted                = { fg = colors.git.removed},
         NvimTreeSpecialFile               = { fg = colors.sp },
         -- NvimTreeIndentMarker           = {},
-        NvimTreeImageFile                 = { fg = colors.sp2 },
+        NvimTreeImageFile                 = { fg = colors.sp3 },
         NvimTreeSymlink                   = { link = "Type" },
         NvimTreeFolderName                = { link = "Directory" },
         NvimTreeExecFile                  = { fg = colors.springGreen, style = "bold" },
