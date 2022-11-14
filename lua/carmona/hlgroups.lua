@@ -93,7 +93,7 @@ function M.setup(colors, config)
         -- Macro                          = {},
         -- PreCondit                      = {},
 
-        Type                              = { fg = colors.ty, style = config.typeStyle },
+        Type                              = { fg = colors.br, style = config.typeStyle },
         Struct                            = { link = 'Type' },
         -- StorageClass                   = {},
         -- Structure                      = {},
