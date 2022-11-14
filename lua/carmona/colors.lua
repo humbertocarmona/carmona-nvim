@@ -49,7 +49,8 @@ local palette_colors = {
     springGreen   = "#98BB6C",
     boatYellow1   = "#938056",
     boatYellow2   = "#C0A36E",
-    carpYellow    = "#E6C384",
+    carpYellow    = "#dddddd",
+    carpYellow1   = "#E6C384",
 
     sakuraPink    = "#D27E99",
     waveRed       = "#E46876",

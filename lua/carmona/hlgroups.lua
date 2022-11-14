@@ -84,7 +84,7 @@ function M.setup(colors, config)
         -- Repeat                         = {},
         -- Label                          = { link = 'Statement' }, --TODO: check default
         Operator                          = { fg = colors.op },
-        Keyword                           = { fg = colors.sp2, style = config.keywordStyle },
+        Keyword                           = { fg = colors.sp3, style = config.keywordStyle },
         Exception                         = { fg = colors.sp2 },
 
         PreProc                           = { fg = colors.pp },
@@ -218,7 +218,7 @@ function M.setup(colors, config)
         -- TSType                         = {},
         -- TSTypeBuiltin                  = {},
         TSVariable                        = { fg = "NONE" },
-        TSVariableBuiltin                 = { fg = colors.sp2, style = config.variablebuiltinStyle },
+        TSVariableBuiltin                 = { fg = colors.sp3, style = config.variablebuiltinStyle },
 
         -- TSTag                          = {},
         -- TSTagDelimiter                 = {},
