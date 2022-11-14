@@ -35,7 +35,7 @@ local palette_colors = {
     springViolet1 = "#938AA9",
 
     oniViolet     = "#957FB8",
-    crystalBlue   = "#b3cad5",
+    crystalBlue   = "#b3caff",
     springBlue    = "#7FB4CA",
     springViolet2 = "#9CABCA",
     lightBlue     = "#A3D4D5", -- unused yet
