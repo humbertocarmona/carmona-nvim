@@ -287,7 +287,7 @@ function M.setup(colors, config)
         NvimTreeGitDirty                  = { fg = colors.git.changed },
         NvimTreeGitNew                    = { fg = colors.git.added},
         NvimTreeGitDeleted                = { fg = colors.git.removed},
-        NvimTreeSpecialFile               = { fg = colors.sp },
+        NvimTreeSpecialFile               = { fg = colors.sp3 },
         -- NvimTreeIndentMarker           = {},
         NvimTreeImageFile                 = { fg = colors.sp3 },
         NvimTreeSymlink                   = { link = "Type" },
