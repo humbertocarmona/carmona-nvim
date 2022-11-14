@@ -69,7 +69,7 @@ function M.setup(colors, config)
         Whitespace                        = { fg = colors.bg_light2 },
         WildMenu                          = { link = "Pmenu" },
 
-        Constant                          = { fg = colors.co },
+        Constant                          = { fg = colors.sm },
         String                            = { fg = colors.sp },
         Character                         = { link = "String" },
         Number                            = { fg = colors.nu },
@@ -87,7 +87,7 @@ function M.setup(colors, config)
         Keyword                           = { fg = colors.sp3, style = config.keywordStyle },
         Exception                         = { fg = colors.sp3 },
 
-        PreProc                           = { fg = colors.pp },
+        PreProc                           = { fg = colors.nu },
         -- Include                        = {},
         -- Define                         = {},
         -- Macro                          = {},
